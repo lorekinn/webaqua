@@ -1,0 +1,26 @@
+{
+    "categories": [
+      {
+        "name": "сантехника",
+        "items": [
+          { "id": 1, "name": "Мебель для ванной", "image": "pic\\mebel.jpg" },
+          { "id": 2, "name": "Унитазы", "image": "pic\\toilet.jpg" },
+          { "id": 3, "name": "Системы инсталляции", "image": "pic\\system.jpg" },
+          { "id": 4, "name": "Ванны акриловые", "image": "pic\\acril.jpg" },
+          { "id": 5, "name": "Душевое оборудование", "image": "pic\\dush.jpg" },
+          { "id": 6, "name": "Смесители", "image": "pic\\smes.jpg" },
+          { "id": 7, "name": "Аксессуары для ванной", "image": "pic\\acc.jpg" },
+          { "id": 8, "name": "Готовые решения", "image": "pic\\gotov.jpeg" },
+          { "id": 9, "name": "Раковины, биде", "image": "pic\\rak.jpg" }
+        ]
+      },
+      {
+        "name": "плитка",
+        "items": [
+          { "id": 1, "name": "Керамогранит", "image": "pic\\keram.jpg" },
+          { "id": 2, "name": "Керамическая", "image": "pic\\keramic.jpg" }
+        ]
+      }
+    ]
+  }
+  
